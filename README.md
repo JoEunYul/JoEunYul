@@ -1,8 +1,5 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-:dizzy: Learning
-<br>
-  <p align="left">
 확장
 1a76b303f637877e.txt
 1KB
